@@ -98,4 +98,6 @@ The study proposes an AD classification model combining improved ResNet50, Soft-
 
 ---
 
+## Video Demo Link 
+https://www.loom.com/share/f1454a48dafe4c4e9523a8b51d716784?sid=48fff698-7d25-4920-a013-345fd954a6d9
 
